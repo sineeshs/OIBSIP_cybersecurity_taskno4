@@ -1,4 +1,6 @@
-# Research Report: Common Network Security Threats and Countermeasures
+# Common Network Security Threats and Countermeasures
+### Report Submitted by Sineesh S
+---
 
 ## Introduction
 In our increasingly interconnected world, network security is a foundational requirement for any digital infrastructure. A network security threat is any malicious attempt to breach, disrupt, or gain unauthorized access to a computer network. This report examines six prevalent network security threats: **Denial of Service (DoS) attacks**, **Man-in-the-Middle (MITM) attacks**, **Spoofing**, **Malware & Ransomware**, **Insider Threats**, and **Advanced Persistent Threats (APTs)**. It details their mechanisms, impacts, modern real-world examples, and effective mitigation strategies.
